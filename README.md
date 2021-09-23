@@ -41,3 +41,9 @@ Importar as funcionalidades de formulário para o projeto;
 Escutar o evento de submit do formulário através de event binding;
 A diferença do Two-way data binding para property binding;
 Capturar as informações de um formulário.
+
+Nesta aula, aprendemos:
+
+1. Utilizar o metadata @Output() para criar um evento para o seu componente.
+2. Emitir eventos dentro do seu componente.
+3. Utilizar o event binding para capturar o evento propagando pelo componente.
