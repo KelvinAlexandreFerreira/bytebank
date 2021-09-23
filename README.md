@@ -47,3 +47,7 @@ Nesta aula, aprendemos:
 1. Utilizar o metadata @Output() para criar um evento para o seu componente.
 2. Emitir eventos dentro do seu componente.
 3. Utilizar o event binding para capturar o evento propagando pelo componente.
+
+Comando para criar o componente:
+
+ng generate component extrato
