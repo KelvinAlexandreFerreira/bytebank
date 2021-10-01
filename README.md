@@ -51,3 +51,9 @@ Nesta aula, aprendemos:
 Comando para criar o componente:
 
 ng generate component extrato
+
+Nesta aula, aprendemos:
+
+1. Utilizar o metadata @Input() para receber valores em um componente;
+2. Exibir uma lista de dados através da diretiva *ngFor;
+3. Configurar o formato de horas na aplicação.
