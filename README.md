@@ -62,3 +62,9 @@ Nesta aula, aprendemos:
 
 1. Utilizar a diretiva *ngIf;
 2. Trabalhar com Service
+
+Comandos executados nesta aula:
+Instalar o Json Server: npm install -g json-server 
+Levantar o servidor (na pasta do bd): json-server --watch db.json
+
+Acessei http://json2ts.com/ e colei o json, usando o ts gerado em transferencia.model.ts
