@@ -68,3 +68,10 @@ Instalar o Json Server: npm install -g json-server
 Levantar o servidor (na pasta do bd): json-server --watch db.json
 
 Acessei http://json2ts.com/ e colei o json, usando o ts gerado em transferencia.model.ts
+
+Nesta aula, aprendemos:
+
+1. Como construir um mock de uma API REST com o json-server;
+2. Importar e utilizar o módulo HttpClient;
+3. Como enviar os dados de um formulário para a API;
+4. Como exibir em tela os dados obtidos de uma API.
