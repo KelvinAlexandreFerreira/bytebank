@@ -75,3 +75,9 @@ Nesta aula, aprendemos:
 2. Importar e utilizar o módulo HttpClient;
 3. Como enviar os dados de um formulário para a API;
 4. Como exibir em tela os dados obtidos de uma API.
+
+Nesta aula, aprendemos:
+
+1. Importar e utilizar o módulo RouterModule;
+2. Adicionar rotas aos componentes transformando-os em páginas;
+3. Utilizar o RouterLink para melhorar a usabilidade de nossa aplicação.
